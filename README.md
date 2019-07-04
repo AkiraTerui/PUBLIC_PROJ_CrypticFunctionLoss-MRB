@@ -1,2 +1,14 @@
 # PUBLIC_PROJ_CrypticFunctionLoss-MRB
- R and JAGS scripts for "Quantifying cryptic function loss during community disassembly"
+ JAGS scripts for "Quantifying cryptic function loss during community disassembly"
+
+## Folder "BayesModel_behavior"
+### model_fixed_behavior.R
+JAGS script for the behavioral sensitivity model with fixed response
+### model_specific_behavior.R
+JAGS script for the behavioral sensitivity model with species-specific response
+
+## Folder "BayesModel_population"
+### model_fixed_population.R
+JAGS script for the population sensitivity model with fixed response
+### model_specific_population.R
+JAGS script for the population sensitivity model with species-specific response
