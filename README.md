@@ -1,5 +1,7 @@
 # PUBLIC_PROJ_CrypticFunctionLoss-MRB
- JAGS scripts for "Quantifying cryptic function loss during community disassembly"
+ Title: JAGS scripts for "Quantifying cryptic function loss during community disassembly"  
+ Author: Akira Terui, Jacques C Finlay, Amy T Hansen, Jessica L Kozarek  
+ Journal: Journal of Applied Ecology  
 
 ## Folder "BayesModel_behavior"
 ### model_fixed_behavior.R
