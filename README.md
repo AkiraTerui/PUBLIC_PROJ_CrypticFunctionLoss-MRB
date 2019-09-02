@@ -3,9 +3,6 @@
  Author: Akira Terui, Jacques C Finlay, Amy T Hansen, Jessica L Kozarek  
  Journal: Journal of Applied Ecology  
 
-## Data S1
-Data used in behavioral sensitivity analysis  
-
 ## Folder "BayesModel_behavior"
 ### model_fixed_behavior.R
 JAGS script for the behavioral sensitivity model with fixed response
