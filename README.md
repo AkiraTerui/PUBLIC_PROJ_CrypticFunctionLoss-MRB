@@ -1,4 +1,4 @@
-# PUBLIC_PROJ_CrypticFunctionLoss-MRB
+# public-proj_cryp-fun-loss
  Title: Quantifying cryptic function loss during community disassembly  
  Author: Akira Terui, Jacques C Finlay, Amy T Hansen, Jessica L Kozarek  
  Journal: Journal of Applied Ecology  
